@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 # Run
 
-Run using command - npm run dev
+Run using command: npm run dev
